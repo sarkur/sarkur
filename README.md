@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarkur I'm a PhD student in population genetics at Sockholm University in the Laikre lab.
+- 👋 Hi, I’m @sarkur I'm a Researcher in population genetics/genomics at Sockholm University in the Laikre lab.
 - 👀 I’m interested in population genetics and population genomics
 
 
